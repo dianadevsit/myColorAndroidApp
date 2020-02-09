@@ -7,8 +7,8 @@
     tools:context=".MainActivity">
 
     <TextView
-        android:id="@+id/colorInput"
-        android:layout_width="wrap_content"
+        android:id="@+id/colorOutput"
+        android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:textAlignment="center"
         android:textSize="36sp"
@@ -30,7 +30,7 @@
         android:onClick="updateColorText" />
 
     <EditText
-        android:id="@+id/color "
+        android:id="@+id/colorInput"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:ems="10"
