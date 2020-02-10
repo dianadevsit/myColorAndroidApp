@@ -5,8 +5,8 @@
 >This is a an Android app made with Android 4.4 (KitKat). I've run this on a Pixel 2 with Android 9.0x86 (Pie).
 </br>
 >Code used for this is: Java
-<br>
-Editor used was: Android Studio
+</br>
+>Editor used was: Android Studio
 
 
 What does this app do? Simply put, it does this:
